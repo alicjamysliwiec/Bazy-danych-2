@@ -1,0 +1,230 @@
+C:\Users\daria\Desktop\Projekty\Bazy danych 2\ZakładTransportowy\ZakładTransportowy\bin\Debug\ZakładTransportowy.exe.config
+C:\Users\daria\Desktop\Projekty\Bazy danych 2\ZakładTransportowy\ZakładTransportowy\bin\Debug\ZakładTransportowy.exe
+C:\Users\daria\Desktop\Projekty\Bazy danych 2\ZakładTransportowy\ZakładTransportowy\bin\Debug\ZakładTransportowy.pdb
+C:\Users\daria\Desktop\Projekty\Bazy danych 2\ZakładTransportowy\ZakładTransportowy\bin\Debug\Dapper.dll
+C:\Users\daria\Desktop\Projekty\Bazy danych 2\ZakładTransportowy\ZakładTransportowy\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\daria\Desktop\Projekty\Bazy danych 2\ZakładTransportowy\ZakładTransportowy\bin\Debug\System.Security.AccessControl.dll
+C:\Users\daria\Desktop\Projekty\Bazy danych 2\ZakładTransportowy\ZakładTransportowy\bin\Debug\System.Security.Permissions.dll
+C:\Users\daria\Desktop\Projekty\Bazy danych 2\ZakładTransportowy\ZakładTransportowy\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\daria\Desktop\Projekty\Bazy danych 2\ZakładTransportowy\ZakładTransportowy\bin\Debug\Dapper.xml
+C:\Users\daria\Desktop\Projekty\Bazy danych 2\ZakładTransportowy\ZakładTransportowy\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\daria\Desktop\Projekty\Bazy danych 2\ZakładTransportowy\ZakładTransportowy\bin\Debug\System.Security.AccessControl.xml
+C:\Users\daria\Desktop\Projekty\Bazy danych 2\ZakładTransportowy\ZakładTransportowy\bin\Debug\System.Security.Permissions.xml
+C:\Users\daria\Desktop\Projekty\Bazy danych 2\ZakładTransportowy\ZakładTransportowy\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\daria\Desktop\Projekty\Bazy danych 2\ZakładTransportowy\ZakładTransportowy\obj\Debug\ZakładTransportowy.csprojAssemblyReference.cache
+C:\Users\daria\Desktop\Projekty\Bazy danych 2\ZakładTransportowy\ZakładTransportowy\obj\Debug\ZakładTransportowy.Form1.resources
+C:\Users\daria\Desktop\Projekty\Bazy danych 2\ZakładTransportowy\ZakładTransportowy\obj\Debug\ZakładTransportowy.Properties.Resources.resources
+C:\Users\daria\Desktop\Projekty\Bazy danych 2\ZakładTransportowy\ZakładTransportowy\obj\Debug\ZakładTransportowy.csproj.GenerateResource.cache
+C:\Users\daria\Desktop\Projekty\Bazy danych 2\ZakładTransportowy\ZakładTransportowy\obj\Debug\ZakładTransportowy.csproj.CoreCompileInputs.cache
+C:\Users\daria\Desktop\Projekty\Bazy danych 2\ZakładTransportowy\ZakładTransportowy\obj\Debug\ZakładTransportowy.csproj.CopyComplete
+C:\Users\daria\Desktop\Projekty\Bazy danych 2\ZakładTransportowy\ZakładTransportowy\obj\Debug\ZakładTransportowy.exe
+C:\Users\daria\Desktop\Projekty\Bazy danych 2\ZakładTransportowy\ZakładTransportowy\obj\Debug\ZakładTransportowy.pdb
+C:\Users\daria\Desktop\Projekty\Bazy danych 2\ZakładTransportowy\ZakładTransportowy\bin\Debug\MySqlConnector.dll
+C:\Users\daria\Desktop\Projekty\Bazy danych 2\ZakładTransportowy\ZakładTransportowy\bin\Debug\System.Buffers.dll
+C:\Users\daria\Desktop\Projekty\Bazy danych 2\ZakładTransportowy\ZakładTransportowy\bin\Debug\System.Memory.dll
+C:\Users\daria\Desktop\Projekty\Bazy danych 2\ZakładTransportowy\ZakładTransportowy\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\daria\Desktop\Projekty\Bazy danych 2\ZakładTransportowy\ZakładTransportowy\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\daria\Desktop\Projekty\Bazy danych 2\ZakładTransportowy\ZakładTransportowy\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\daria\Desktop\Projekty\Bazy danych 2\ZakładTransportowy\ZakładTransportowy\bin\Debug\MySqlConnector.xml
+C:\Users\daria\Desktop\Projekty\Bazy danych 2\ZakładTransportowy\ZakładTransportowy\bin\Debug\System.Buffers.xml
+C:\Users\daria\Desktop\Projekty\Bazy danych 2\ZakładTransportowy\ZakładTransportowy\bin\Debug\System.Memory.xml
+C:\Users\daria\Desktop\Projekty\Bazy danych 2\ZakładTransportowy\ZakładTransportowy\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\daria\Desktop\Projekty\Bazy danych 2\ZakładTransportowy\ZakładTransportowy\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\daria\Desktop\Projekty\Bazy danych 2\ZakładTransportowy\ZakładTransportowy\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\daria\Desktop\Projekty\ZakładTransportowy\ZakładTransportowy\ZakładTransportowy\obj\Debug\ZakładTransportowy.exe
+C:\Users\daria\Desktop\Projekty\ZakładTransportowy\ZakładTransportowy\ZakładTransportowy\obj\Debug\ZakładTransportowy.pdb
+C:\Users\daria\Desktop\Projekty\ZakładTransportowy\ZakładTransportowy\ZakładTransportowy\obj\Debug\ZakładTransportowy.csprojAssemblyReference.cache
+C:\Users\daria\Desktop\Projekty\ZakładTransportowy\ZakładTransportowy\ZakładTransportowy\obj\Debug\ZakładTransportowy.Properties.Resources.resources
+C:\Users\daria\Desktop\Projekty\ZakładTransportowy\ZakładTransportowy\ZakładTransportowy\obj\Debug\ZakładTransportowy.csproj.GenerateResource.cache
+C:\Users\daria\Desktop\Projekty\ZakładTransportowy\ZakładTransportowy\ZakładTransportowy\obj\Debug\ZakładTransportowy.csproj.CoreCompileInputs.cache
+C:\Users\daria\Desktop\Projekty\ZakładTransportowy\ZakładTransportowy\ZakładTransportowy\bin\Debug\ZakładTransportowy.exe.config
+C:\Users\daria\Desktop\Projekty\ZakładTransportowy\ZakładTransportowy\ZakładTransportowy\bin\Debug\ZakładTransportowy.exe
+C:\Users\daria\Desktop\Projekty\ZakładTransportowy\ZakładTransportowy\ZakładTransportowy\bin\Debug\ZakładTransportowy.pdb
+C:\Users\daria\Desktop\Projekty\ZakładTransportowy\ZakładTransportowy\ZakładTransportowy\bin\Debug\Dapper.dll
+C:\Users\daria\Desktop\Projekty\ZakładTransportowy\ZakładTransportowy\ZakładTransportowy\bin\Debug\MySqlConnector.dll
+C:\Users\daria\Desktop\Projekty\ZakładTransportowy\ZakładTransportowy\ZakładTransportowy\bin\Debug\System.Buffers.dll
+C:\Users\daria\Desktop\Projekty\ZakładTransportowy\ZakładTransportowy\ZakładTransportowy\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\daria\Desktop\Projekty\ZakładTransportowy\ZakładTransportowy\ZakładTransportowy\bin\Debug\System.Memory.dll
+C:\Users\daria\Desktop\Projekty\ZakładTransportowy\ZakładTransportowy\ZakładTransportowy\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\daria\Desktop\Projekty\ZakładTransportowy\ZakładTransportowy\ZakładTransportowy\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\daria\Desktop\Projekty\ZakładTransportowy\ZakładTransportowy\ZakładTransportowy\bin\Debug\System.Security.AccessControl.dll
+C:\Users\daria\Desktop\Projekty\ZakładTransportowy\ZakładTransportowy\ZakładTransportowy\bin\Debug\System.Security.Permissions.dll
+C:\Users\daria\Desktop\Projekty\ZakładTransportowy\ZakładTransportowy\ZakładTransportowy\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\daria\Desktop\Projekty\ZakładTransportowy\ZakładTransportowy\ZakładTransportowy\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\daria\Desktop\Projekty\ZakładTransportowy\ZakładTransportowy\ZakładTransportowy\bin\Debug\Dapper.xml
+C:\Users\daria\Desktop\Projekty\ZakładTransportowy\ZakładTransportowy\ZakładTransportowy\bin\Debug\MySqlConnector.xml
+C:\Users\daria\Desktop\Projekty\ZakładTransportowy\ZakładTransportowy\ZakładTransportowy\bin\Debug\System.Buffers.xml
+C:\Users\daria\Desktop\Projekty\ZakładTransportowy\ZakładTransportowy\ZakładTransportowy\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\daria\Desktop\Projekty\ZakładTransportowy\ZakładTransportowy\ZakładTransportowy\bin\Debug\System.Memory.xml
+C:\Users\daria\Desktop\Projekty\ZakładTransportowy\ZakładTransportowy\ZakładTransportowy\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\daria\Desktop\Projekty\ZakładTransportowy\ZakładTransportowy\ZakładTransportowy\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\daria\Desktop\Projekty\ZakładTransportowy\ZakładTransportowy\ZakładTransportowy\bin\Debug\System.Security.AccessControl.xml
+C:\Users\daria\Desktop\Projekty\ZakładTransportowy\ZakładTransportowy\ZakładTransportowy\bin\Debug\System.Security.Permissions.xml
+C:\Users\daria\Desktop\Projekty\ZakładTransportowy\ZakładTransportowy\ZakładTransportowy\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\daria\Desktop\Projekty\ZakładTransportowy\ZakładTransportowy\ZakładTransportowy\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\daria\Desktop\Projekty\ZakładTransportowy\ZakładTransportowy\ZakładTransportowy\obj\Debug\ZakładTransportowy.csproj.CopyComplete
+C:\Users\daria\Desktop\Projekty\ZakładTransportowy\ZakładTransportowy\ZakładTransportowy\obj\Debug\ZakładTransportowy.PanelKlienta.resources
+C:\Users\Alicja\Desktop\Studia\5 semestr\Bazy danych\Aplikacja\ZakładTransportowy\bin\Debug\ZakładTransportowy.exe.config
+C:\Users\Alicja\Desktop\Studia\5 semestr\Bazy danych\Aplikacja\ZakładTransportowy\bin\Debug\ZakładTransportowy.exe
+C:\Users\Alicja\Desktop\Studia\5 semestr\Bazy danych\Aplikacja\ZakładTransportowy\bin\Debug\ZakładTransportowy.pdb
+C:\Users\Alicja\Desktop\Studia\5 semestr\Bazy danych\Aplikacja\ZakładTransportowy\bin\Debug\Dapper.dll
+C:\Users\Alicja\Desktop\Studia\5 semestr\Bazy danych\Aplikacja\ZakładTransportowy\bin\Debug\MySqlConnector.dll
+C:\Users\Alicja\Desktop\Studia\5 semestr\Bazy danych\Aplikacja\ZakładTransportowy\bin\Debug\System.Buffers.dll
+C:\Users\Alicja\Desktop\Studia\5 semestr\Bazy danych\Aplikacja\ZakładTransportowy\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Alicja\Desktop\Studia\5 semestr\Bazy danych\Aplikacja\ZakładTransportowy\bin\Debug\System.Memory.dll
+C:\Users\Alicja\Desktop\Studia\5 semestr\Bazy danych\Aplikacja\ZakładTransportowy\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Alicja\Desktop\Studia\5 semestr\Bazy danych\Aplikacja\ZakładTransportowy\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Alicja\Desktop\Studia\5 semestr\Bazy danych\Aplikacja\ZakładTransportowy\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Alicja\Desktop\Studia\5 semestr\Bazy danych\Aplikacja\ZakładTransportowy\bin\Debug\System.Security.Permissions.dll
+C:\Users\Alicja\Desktop\Studia\5 semestr\Bazy danych\Aplikacja\ZakładTransportowy\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Alicja\Desktop\Studia\5 semestr\Bazy danych\Aplikacja\ZakładTransportowy\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Alicja\Desktop\Studia\5 semestr\Bazy danych\Aplikacja\ZakładTransportowy\bin\Debug\Dapper.xml
+C:\Users\Alicja\Desktop\Studia\5 semestr\Bazy danych\Aplikacja\ZakładTransportowy\bin\Debug\MySqlConnector.xml
+C:\Users\Alicja\Desktop\Studia\5 semestr\Bazy danych\Aplikacja\ZakładTransportowy\bin\Debug\System.Buffers.xml
+C:\Users\Alicja\Desktop\Studia\5 semestr\Bazy danych\Aplikacja\ZakładTransportowy\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Alicja\Desktop\Studia\5 semestr\Bazy danych\Aplikacja\ZakładTransportowy\bin\Debug\System.Memory.xml
+C:\Users\Alicja\Desktop\Studia\5 semestr\Bazy danych\Aplikacja\ZakładTransportowy\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Alicja\Desktop\Studia\5 semestr\Bazy danych\Aplikacja\ZakładTransportowy\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Alicja\Desktop\Studia\5 semestr\Bazy danych\Aplikacja\ZakładTransportowy\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Alicja\Desktop\Studia\5 semestr\Bazy danych\Aplikacja\ZakładTransportowy\bin\Debug\System.Security.Permissions.xml
+C:\Users\Alicja\Desktop\Studia\5 semestr\Bazy danych\Aplikacja\ZakładTransportowy\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Alicja\Desktop\Studia\5 semestr\Bazy danych\Aplikacja\ZakładTransportowy\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Alicja\Desktop\Studia\5 semestr\Bazy danych\Aplikacja\ZakładTransportowy\obj\Debug\ZakładTransportowy.csprojAssemblyReference.cache
+C:\Users\Alicja\Desktop\Studia\5 semestr\Bazy danych\Aplikacja\ZakładTransportowy\obj\Debug\ZakładTransportowy.Properties.Resources.resources
+C:\Users\Alicja\Desktop\Studia\5 semestr\Bazy danych\Aplikacja\ZakładTransportowy\obj\Debug\ZakładTransportowy.csproj.GenerateResource.cache
+C:\Users\Alicja\Desktop\Studia\5 semestr\Bazy danych\Aplikacja\ZakładTransportowy\obj\Debug\ZakładTransportowy.csproj.CoreCompileInputs.cache
+C:\Users\Alicja\Desktop\Studia\5 semestr\Bazy danych\Aplikacja\ZakładTransportowy\obj\Debug\ZakładTransportowy.csproj.CopyComplete
+C:\Users\Alicja\Desktop\Studia\5 semestr\Bazy danych\Aplikacja\ZakładTransportowy\obj\Debug\ZakładTransportowy.exe
+C:\Users\Alicja\Desktop\Studia\5 semestr\Bazy danych\Aplikacja\ZakładTransportowy\obj\Debug\ZakładTransportowy.pdb
+C:\Users\Alicja\Desktop\Studia\5 semestr\Bazy danych\Aplikacja\ZakładTransportowy\obj\Debug\ZakładTransportowy.OknoLogowania.resources
+C:\Users\Alicja\Desktop\Studia\5 semestr\Bazy danych\Aplikacja\ZakładTransportowy\obj\Debug\ZakładTransportowy.PanelKlienta.resources
+C:\Users\Alicja\Desktop\Studia\5 semestr\Bazy danych\Aplikacja\ZakładTransportowy\obj\Debug\ZakładTransportowy.LogowanieKlienta.resources
+C:\Users\Alicja\Desktop\Studia\5 semestr\Bazy danych\Aplikacja\ZakładTransportowy\obj\Debug\ZakładTransportowy.ZalogowanyKlient.resources
+C:\Users\Alicja\Desktop\Studia\5 semestr\Bazy danych\Aplikacja\ZakładTransportowy\obj\Debug\ZakładTransportowy.EdycjaProfilu.resources
+C:\Users\Alicja\Desktop\Studia\5 semestr\Bazy danych\Aplikacja\ZakładTransportowy\obj\Debug\ZakładTransportowy.PrzegladanieZamowien.resources
+C:\Users\Alicja\Desktop\Studia\5 semestr\Bazy danych\Aplikacja\ZakładTransportowy\obj\Debug\ZakładTransportowy.SkladanieZamowienia.resources
+C:\Users\Alicja\Desktop\Studia\5 semestr\Bazy danych\Aplikacja\ZakładTransportowy\obj\Debug\ZakładTransportowy.TworzenieKontaKlienta.resources
+C:\Users\Alicja\Desktop\Studia\5 semestr\Bazy danych\Aplikacja\ZakładTransportowy\obj\Debug\ZakładTransportowy.LogowaniePracownika.resources
+C:\Users\Alicja\Desktop\Studia\5 semestr\Bazy danych\Aplikacja\ZakładTransportowy\obj\Debug\ZakładTransportowy.ZalogowanyPracownik.resources
+C:\Users\Alicja\Desktop\Studia\5 semestr\Bazy danych\Aplikacja\ZakładTransportowy\obj\Debug\ZakładTransportowy.LogowanieWlasciciela.resources
+C:\Users\Alicja\Desktop\Studia\5 semestr\Bazy danych\Aplikacja\ZakładTransportowy\obj\Debug\ZakładTransportowy.Pracownicy.resources
+C:\Users\Alicja\Desktop\Studia\5 semestr\Bazy danych\Aplikacja\ZakładTransportowy\obj\Debug\ZakładTransportowy.ZalogowanyWlasciciel.resources
+C:\Users\Alicja\Desktop\Studia\5 semestr\Bazy danych\Aplikacja\ZakładTransportowy\obj\Debug\ZakładTransportowy.TworzeniePracownika.resources
+C:\Users\Alicja\Desktop\Studia\5 semestr\Bazy danych\Aplikacja\ZakładTransportowy\obj\Debug\ZakładTransportowy.Pojazdy.resources
+C:\Users\Alicja\Desktop\Studia\5 semestr\Bazy danych\Aplikacja\ZakładTransportowy\obj\Debug\ZakładTransportowy.DodawaniePojazdu.resources
+C:\Users\Alicja\Desktop\Studia\5 semestr\Bazy danych\Aplikacja\ZakładTransportowy\obj\Debug\ZakładTransportowy.Statystyki.resources
+C:\Users\Alicja\Desktop\Studia\5 semestr\Bazy danych\Aplikacja\ZakładTransportowy\obj\Debug\ZakładTransportowy.EdytujPojazd.resources
+C:\Users\Alicja\Desktop\Studia\5 semestr\Bazy danych\Aplikacja\ZakładTransportowy\obj\Debug\ZakładTransportowy.ListaPojazdowDlaPracownika.resources
+C:\Users\Alicja\Desktop\Studia\5 semestr\Bazy danych\Aplikacja\ZakładTransportowy\obj\Debug\ZakładTransportowy.ListaZamowienDlaPracownika.resources
+C:\Users\Alicja\Desktop\Studia\5 semestr\Bazy danych\Aplikacja\ZakładTransportowy\obj\Debug\ZakładTransportowy.RozliczenieZamowienia.resources
+C:\Users\Alicja\Desktop\Studia\5 semestr\Bazy danych\Aplikacja\ZakładTransportowy\obj\Debug\ZakładTransportowy.WybierzDate.resources
+C:\Users\Alicja\Desktop\Studia\5 semestr\Bazy danych\Aplikacja\ZakładTransportowy\obj\Debug\ZakładTransportowy.DodawanieZamowienia.resources
+C:\Users\daria\Desktop\Aplikacja\ZakładTransportowy\obj\Debug\ZakładTransportowy.csprojAssemblyReference.cache
+C:\Users\daria\Desktop\Aplikacja\ZakładTransportowy\obj\Debug\ZakładTransportowy.DodawaniePojazdu.resources
+C:\Users\daria\Desktop\Aplikacja\ZakładTransportowy\obj\Debug\ZakładTransportowy.DodawanieZamowienia.resources
+C:\Users\daria\Desktop\Aplikacja\ZakładTransportowy\obj\Debug\ZakładTransportowy.EdycjaProfilu.resources
+C:\Users\daria\Desktop\Aplikacja\ZakładTransportowy\obj\Debug\ZakładTransportowy.EdytujPojazd.resources
+C:\Users\daria\Desktop\Aplikacja\ZakładTransportowy\obj\Debug\ZakładTransportowy.ListaPojazdowDlaPracownika.resources
+C:\Users\daria\Desktop\Aplikacja\ZakładTransportowy\obj\Debug\ZakładTransportowy.ListaZamowienDlaPracownika.resources
+C:\Users\daria\Desktop\Aplikacja\ZakładTransportowy\obj\Debug\ZakładTransportowy.LogowanieKlienta.resources
+C:\Users\daria\Desktop\Aplikacja\ZakładTransportowy\obj\Debug\ZakładTransportowy.LogowanieWlasciciela.resources
+C:\Users\daria\Desktop\Aplikacja\ZakładTransportowy\obj\Debug\ZakładTransportowy.OknoLogowania.resources
+C:\Users\daria\Desktop\Aplikacja\ZakładTransportowy\obj\Debug\ZakładTransportowy.PanelKlienta.resources
+C:\Users\daria\Desktop\Aplikacja\ZakładTransportowy\obj\Debug\ZakładTransportowy.LogowaniePracownika.resources
+C:\Users\daria\Desktop\Aplikacja\ZakładTransportowy\obj\Debug\ZakładTransportowy.Pojazdy.resources
+C:\Users\daria\Desktop\Aplikacja\ZakładTransportowy\obj\Debug\ZakładTransportowy.Pracownicy.resources
+C:\Users\daria\Desktop\Aplikacja\ZakładTransportowy\obj\Debug\ZakładTransportowy.Properties.Resources.resources
+C:\Users\daria\Desktop\Aplikacja\ZakładTransportowy\obj\Debug\ZakładTransportowy.PrzegladanieZamowien.resources
+C:\Users\daria\Desktop\Aplikacja\ZakładTransportowy\obj\Debug\ZakładTransportowy.RozliczenieZamowienia.resources
+C:\Users\daria\Desktop\Aplikacja\ZakładTransportowy\obj\Debug\ZakładTransportowy.SkladanieZamowienia.resources
+C:\Users\daria\Desktop\Aplikacja\ZakładTransportowy\obj\Debug\ZakładTransportowy.Statystyki.resources
+C:\Users\daria\Desktop\Aplikacja\ZakładTransportowy\obj\Debug\ZakładTransportowy.TworzeniePracownika.resources
+C:\Users\daria\Desktop\Aplikacja\ZakładTransportowy\obj\Debug\ZakładTransportowy.TworzenieKontaKlienta.resources
+C:\Users\daria\Desktop\Aplikacja\ZakładTransportowy\obj\Debug\ZakładTransportowy.WybierzDate.resources
+C:\Users\daria\Desktop\Aplikacja\ZakładTransportowy\obj\Debug\ZakładTransportowy.ZalogowanyKlient.resources
+C:\Users\daria\Desktop\Aplikacja\ZakładTransportowy\obj\Debug\ZakładTransportowy.ZalogowanyPracownik.resources
+C:\Users\daria\Desktop\Aplikacja\ZakładTransportowy\obj\Debug\ZakładTransportowy.ZalogowanyWlasciciel.resources
+C:\Users\daria\Desktop\Aplikacja\ZakładTransportowy\obj\Debug\ZakładTransportowy.csproj.GenerateResource.cache
+C:\Users\daria\Desktop\Aplikacja\ZakładTransportowy\obj\Debug\ZakładTransportowy.csproj.CoreCompileInputs.cache
+C:\Users\daria\Desktop\Aplikacja\ZakładTransportowy\obj\Debug\ZakładTransportowy.exe
+C:\Users\daria\Desktop\Aplikacja\ZakładTransportowy\obj\Debug\ZakładTransportowy.pdb
+C:\Users\daria\Desktop\Aplikacja\ZakładTransportowy\bin\Debug\ZakładTransportowy.exe.config
+C:\Users\daria\Desktop\Aplikacja\ZakładTransportowy\bin\Debug\ZakładTransportowy.exe
+C:\Users\daria\Desktop\Aplikacja\ZakładTransportowy\bin\Debug\ZakładTransportowy.pdb
+C:\Users\daria\Desktop\Aplikacja\ZakładTransportowy\bin\Debug\Dapper.dll
+C:\Users\daria\Desktop\Aplikacja\ZakładTransportowy\bin\Debug\MySqlConnector.dll
+C:\Users\daria\Desktop\Aplikacja\ZakładTransportowy\bin\Debug\System.Buffers.dll
+C:\Users\daria\Desktop\Aplikacja\ZakładTransportowy\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\daria\Desktop\Aplikacja\ZakładTransportowy\bin\Debug\System.Memory.dll
+C:\Users\daria\Desktop\Aplikacja\ZakładTransportowy\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\daria\Desktop\Aplikacja\ZakładTransportowy\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\daria\Desktop\Aplikacja\ZakładTransportowy\bin\Debug\System.Security.AccessControl.dll
+C:\Users\daria\Desktop\Aplikacja\ZakładTransportowy\bin\Debug\System.Security.Permissions.dll
+C:\Users\daria\Desktop\Aplikacja\ZakładTransportowy\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\daria\Desktop\Aplikacja\ZakładTransportowy\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\daria\Desktop\Aplikacja\ZakładTransportowy\bin\Debug\Dapper.xml
+C:\Users\daria\Desktop\Aplikacja\ZakładTransportowy\bin\Debug\MySqlConnector.xml
+C:\Users\daria\Desktop\Aplikacja\ZakładTransportowy\bin\Debug\System.Buffers.xml
+C:\Users\daria\Desktop\Aplikacja\ZakładTransportowy\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\daria\Desktop\Aplikacja\ZakładTransportowy\bin\Debug\System.Memory.xml
+C:\Users\daria\Desktop\Aplikacja\ZakładTransportowy\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\daria\Desktop\Aplikacja\ZakładTransportowy\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\daria\Desktop\Aplikacja\ZakładTransportowy\bin\Debug\System.Security.AccessControl.xml
+C:\Users\daria\Desktop\Aplikacja\ZakładTransportowy\bin\Debug\System.Security.Permissions.xml
+C:\Users\daria\Desktop\Aplikacja\ZakładTransportowy\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\daria\Desktop\Aplikacja\ZakładTransportowy\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\daria\Desktop\Aplikacja\ZakładTransportowy\obj\Debug\ZakładTransportowy.csproj.CopyComplete
+C:\Users\Alicja\Desktop\Studia\5 semestr\Bazy danych\Aplikacja\Aplikacja\ZakładTransportowy\bin\Debug\ZakładTransportowy.exe.config
+C:\Users\Alicja\Desktop\Studia\5 semestr\Bazy danych\Aplikacja\Aplikacja\ZakładTransportowy\bin\Debug\ZakładTransportowy.exe
+C:\Users\Alicja\Desktop\Studia\5 semestr\Bazy danych\Aplikacja\Aplikacja\ZakładTransportowy\bin\Debug\ZakładTransportowy.pdb
+C:\Users\Alicja\Desktop\Studia\5 semestr\Bazy danych\Aplikacja\Aplikacja\ZakładTransportowy\bin\Debug\Dapper.dll
+C:\Users\Alicja\Desktop\Studia\5 semestr\Bazy danych\Aplikacja\Aplikacja\ZakładTransportowy\bin\Debug\MySqlConnector.dll
+C:\Users\Alicja\Desktop\Studia\5 semestr\Bazy danych\Aplikacja\Aplikacja\ZakładTransportowy\bin\Debug\System.Buffers.dll
+C:\Users\Alicja\Desktop\Studia\5 semestr\Bazy danych\Aplikacja\Aplikacja\ZakładTransportowy\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Alicja\Desktop\Studia\5 semestr\Bazy danych\Aplikacja\Aplikacja\ZakładTransportowy\bin\Debug\System.Memory.dll
+C:\Users\Alicja\Desktop\Studia\5 semestr\Bazy danych\Aplikacja\Aplikacja\ZakładTransportowy\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Alicja\Desktop\Studia\5 semestr\Bazy danych\Aplikacja\Aplikacja\ZakładTransportowy\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Alicja\Desktop\Studia\5 semestr\Bazy danych\Aplikacja\Aplikacja\ZakładTransportowy\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Alicja\Desktop\Studia\5 semestr\Bazy danych\Aplikacja\Aplikacja\ZakładTransportowy\bin\Debug\System.Security.Permissions.dll
+C:\Users\Alicja\Desktop\Studia\5 semestr\Bazy danych\Aplikacja\Aplikacja\ZakładTransportowy\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Alicja\Desktop\Studia\5 semestr\Bazy danych\Aplikacja\Aplikacja\ZakładTransportowy\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Alicja\Desktop\Studia\5 semestr\Bazy danych\Aplikacja\Aplikacja\ZakładTransportowy\bin\Debug\Dapper.xml
+C:\Users\Alicja\Desktop\Studia\5 semestr\Bazy danych\Aplikacja\Aplikacja\ZakładTransportowy\bin\Debug\MySqlConnector.xml
+C:\Users\Alicja\Desktop\Studia\5 semestr\Bazy danych\Aplikacja\Aplikacja\ZakładTransportowy\bin\Debug\System.Buffers.xml
+C:\Users\Alicja\Desktop\Studia\5 semestr\Bazy danych\Aplikacja\Aplikacja\ZakładTransportowy\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Alicja\Desktop\Studia\5 semestr\Bazy danych\Aplikacja\Aplikacja\ZakładTransportowy\bin\Debug\System.Memory.xml
+C:\Users\Alicja\Desktop\Studia\5 semestr\Bazy danych\Aplikacja\Aplikacja\ZakładTransportowy\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Alicja\Desktop\Studia\5 semestr\Bazy danych\Aplikacja\Aplikacja\ZakładTransportowy\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Alicja\Desktop\Studia\5 semestr\Bazy danych\Aplikacja\Aplikacja\ZakładTransportowy\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Alicja\Desktop\Studia\5 semestr\Bazy danych\Aplikacja\Aplikacja\ZakładTransportowy\bin\Debug\System.Security.Permissions.xml
+C:\Users\Alicja\Desktop\Studia\5 semestr\Bazy danych\Aplikacja\Aplikacja\ZakładTransportowy\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Alicja\Desktop\Studia\5 semestr\Bazy danych\Aplikacja\Aplikacja\ZakładTransportowy\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Alicja\Desktop\Studia\5 semestr\Bazy danych\Aplikacja\Aplikacja\ZakładTransportowy\obj\Debug\ZakładTransportowy.csprojAssemblyReference.cache
+C:\Users\Alicja\Desktop\Studia\5 semestr\Bazy danych\Aplikacja\Aplikacja\ZakładTransportowy\obj\Debug\ZakładTransportowy.DodawaniePojazdu.resources
+C:\Users\Alicja\Desktop\Studia\5 semestr\Bazy danych\Aplikacja\Aplikacja\ZakładTransportowy\obj\Debug\ZakładTransportowy.DodawanieZamowienia.resources
+C:\Users\Alicja\Desktop\Studia\5 semestr\Bazy danych\Aplikacja\Aplikacja\ZakładTransportowy\obj\Debug\ZakładTransportowy.EdytujPojazd.resources
+C:\Users\Alicja\Desktop\Studia\5 semestr\Bazy danych\Aplikacja\Aplikacja\ZakładTransportowy\obj\Debug\ZakładTransportowy.ListaPojazdowDlaPracownika.resources
+C:\Users\Alicja\Desktop\Studia\5 semestr\Bazy danych\Aplikacja\Aplikacja\ZakładTransportowy\obj\Debug\ZakładTransportowy.ListaZamowienDlaPracownika.resources
+C:\Users\Alicja\Desktop\Studia\5 semestr\Bazy danych\Aplikacja\Aplikacja\ZakładTransportowy\obj\Debug\ZakładTransportowy.LogowanieKlienta.resources
+C:\Users\Alicja\Desktop\Studia\5 semestr\Bazy danych\Aplikacja\Aplikacja\ZakładTransportowy\obj\Debug\ZakładTransportowy.LogowanieWlasciciela.resources
+C:\Users\Alicja\Desktop\Studia\5 semestr\Bazy danych\Aplikacja\Aplikacja\ZakładTransportowy\obj\Debug\ZakładTransportowy.OknoLogowania.resources
+C:\Users\Alicja\Desktop\Studia\5 semestr\Bazy danych\Aplikacja\Aplikacja\ZakładTransportowy\obj\Debug\ZakładTransportowy.PanelKlienta.resources
+C:\Users\Alicja\Desktop\Studia\5 semestr\Bazy danych\Aplikacja\Aplikacja\ZakładTransportowy\obj\Debug\ZakładTransportowy.LogowaniePracownika.resources
+C:\Users\Alicja\Desktop\Studia\5 semestr\Bazy danych\Aplikacja\Aplikacja\ZakładTransportowy\obj\Debug\ZakładTransportowy.Pojazdy.resources
+C:\Users\Alicja\Desktop\Studia\5 semestr\Bazy danych\Aplikacja\Aplikacja\ZakładTransportowy\obj\Debug\ZakładTransportowy.Pracownicy.resources
+C:\Users\Alicja\Desktop\Studia\5 semestr\Bazy danych\Aplikacja\Aplikacja\ZakładTransportowy\obj\Debug\ZakładTransportowy.Properties.Resources.resources
+C:\Users\Alicja\Desktop\Studia\5 semestr\Bazy danych\Aplikacja\Aplikacja\ZakładTransportowy\obj\Debug\ZakładTransportowy.PrzegladanieZamowien.resources
+C:\Users\Alicja\Desktop\Studia\5 semestr\Bazy danych\Aplikacja\Aplikacja\ZakładTransportowy\obj\Debug\ZakładTransportowy.RozliczenieZamowienia.resources
+C:\Users\Alicja\Desktop\Studia\5 semestr\Bazy danych\Aplikacja\Aplikacja\ZakładTransportowy\obj\Debug\ZakładTransportowy.Statystyki.resources
+C:\Users\Alicja\Desktop\Studia\5 semestr\Bazy danych\Aplikacja\Aplikacja\ZakładTransportowy\obj\Debug\ZakładTransportowy.TworzeniePracownika.resources
+C:\Users\Alicja\Desktop\Studia\5 semestr\Bazy danych\Aplikacja\Aplikacja\ZakładTransportowy\obj\Debug\ZakładTransportowy.TworzenieKontaKlienta.resources
+C:\Users\Alicja\Desktop\Studia\5 semestr\Bazy danych\Aplikacja\Aplikacja\ZakładTransportowy\obj\Debug\ZakładTransportowy.WybierzDate.resources
+C:\Users\Alicja\Desktop\Studia\5 semestr\Bazy danych\Aplikacja\Aplikacja\ZakładTransportowy\obj\Debug\ZakładTransportowy.ZalogowanyKlient.resources
+C:\Users\Alicja\Desktop\Studia\5 semestr\Bazy danych\Aplikacja\Aplikacja\ZakładTransportowy\obj\Debug\ZakładTransportowy.ZalogowanyPracownik.resources
+C:\Users\Alicja\Desktop\Studia\5 semestr\Bazy danych\Aplikacja\Aplikacja\ZakładTransportowy\obj\Debug\ZakładTransportowy.ZalogowanyWlasciciel.resources
+C:\Users\Alicja\Desktop\Studia\5 semestr\Bazy danych\Aplikacja\Aplikacja\ZakładTransportowy\obj\Debug\ZakładTransportowy.csproj.GenerateResource.cache
+C:\Users\Alicja\Desktop\Studia\5 semestr\Bazy danych\Aplikacja\Aplikacja\ZakładTransportowy\obj\Debug\ZakładTransportowy.csproj.CoreCompileInputs.cache
+C:\Users\Alicja\Desktop\Studia\5 semestr\Bazy danych\Aplikacja\Aplikacja\ZakładTransportowy\obj\Debug\ZakładTransportowy.csproj.CopyComplete
+C:\Users\Alicja\Desktop\Studia\5 semestr\Bazy danych\Aplikacja\Aplikacja\ZakładTransportowy\obj\Debug\ZakładTransportowy.exe
+C:\Users\Alicja\Desktop\Studia\5 semestr\Bazy danych\Aplikacja\Aplikacja\ZakładTransportowy\obj\Debug\ZakładTransportowy.pdb
+C:\Users\Alicja\Desktop\Studia\5 semestr\Bazy danych\Aplikacja\Aplikacja\ZakładTransportowy\obj\Debug\ZakładTransportowy.GUI.PanelPracownika.ListaKlientow.resources
